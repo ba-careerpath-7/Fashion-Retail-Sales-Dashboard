@@ -1,6 +1,19 @@
 # Fashion-Retail-Sales-Dashboard
 
 
+---
+**⚠️ Note:** GitHub cannot render Tableau dashboards directly.  
+
+1. Click on :Fashion_Retail_Sales_Dashboard.twbx" in the repository.  
+2. Press the **three-dot menu** on the right.  
+3. Select **Download** under “raw file content”.  
+4. Open the downloaded file in **Tableau Public or Tableau Desktop**.
+
+Alternatively, you can view the Tableau Project in my Public Tableau website: 
+https://public.tableau.com/app/profile/brette.an/viz/FashionRetailSalesDashboard_17678347716810/FashionSales
+---
+
+
 This Tableau dashboard visualizes fashion retail sales data with KPIs, bar chart, and line charts.
 
 * Key Performance Indicators (KPIs): Sum of Purchase Amount (USD), Average Purchase Amount (USD), Average Review Rating
@@ -11,14 +24,11 @@ This Tableau dashboard visualizes fashion retail sales data with KPIs, bar chart
 
 * Line Chart 2: Monthly Average of Review Rating
 
----
-ALERT: GitHub can NOT render the Tableau file, but you can download it!
-1. Press "Fashion Retail Sales Dashboard.twb".
-2. Press the 3 dots on the right.
-3. Press download under "download raw file".
 
 
----
+
+
+
 
 
 ## Dataset
