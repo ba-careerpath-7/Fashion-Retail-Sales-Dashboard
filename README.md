@@ -1,6 +1,12 @@
 # Fashion-Retail-Sales-Dashboard
 
 
+Here is a snapshot of this Tableau Dashboard:
+
+<img width="867" height="498" alt="Tableau Fashion Retail Sales picture" src="https://github.com/user-attachments/assets/bd9f614d-aa3d-4859-818b-c8694ae667da" />
+
+
+
 ---
 **⚠️ Note:** GitHub cannot render Tableau dashboards directly.  
 
@@ -12,6 +18,7 @@
 Alternatively, you can view the Tableau Project in my Public Tableau website: 
 https://public.tableau.com/app/profile/brette.an/viz/FashionRetailSalesDashboard_17678347716810/FashionSales
 ---
+
 
 
 This Tableau dashboard visualizes fashion retail sales data with KPIs, bar chart, and line charts.
