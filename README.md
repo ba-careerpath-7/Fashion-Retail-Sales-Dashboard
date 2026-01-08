@@ -10,7 +10,7 @@ Here is a snapshot of this Tableau Dashboard:
 ---
 **⚠️ Note:** GitHub cannot render Tableau dashboards directly.  
 
-1. Click on :Fashion_Retail_Sales_Dashboard.twbx" in the repository.  
+1. Click on: Fashion_Retail_Sales_Dashboard.twbx" in the repository.  
 2. Press the **three-dot menu** on the right.  
 3. Select **Download** under “raw file content”.  
 4. Open the downloaded file in **Tableau Public or Tableau Desktop**.
