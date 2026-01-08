@@ -32,7 +32,7 @@ This Tableau dashboard visualizes fashion retail sales data with KPIs, bar chart
 * Line Chart 2: Monthly Average of Review Rating
 
 
-
+This dashboard helps identify top-selling items and seasonal trends in purchase behavior and review ratings.
 
 
 
